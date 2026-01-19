@@ -16,6 +16,38 @@
 </p>
 
 ---
+<p align="left">
+  💼 Experienced in building large-scale, real-world systems with multiple user roles,
+  dashboards, and complex business logic.
+</p>
+
+---
+<h2 align="left">🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>🎓 University Management System</b><br>
+    A full-featured university platform covering all academic stages with multiple dashboards 
+    (Admin, Doctors, Students). Includes authentication, role-based access, exams system, 
+    messaging, notifications, payments, and academic records.<br>
+    <b>Tech:</b> MERN Stack, JWT, Role-Based Access, REST APIs
+  </li>
+  <br/>
+  <li>
+    <b>📊 Admin Dashboard Systems</b><br>
+    Multiple admin panels for managing users, content, permissions, and analytics with 
+    real-time updates and secure backend architecture.<br>
+    <b>Tech:</b> React, Node.js, MongoDB, Express
+  </li>
+  <br/>
+  <li>
+    <b>💬 Real-time Communication System</b><br>
+    Chat system between students and administration with real-time messaging, notifications,
+    and message history storage.<br>
+    <b>Tech:</b> Socket.io, Node.js, MongoDB
+  </li>
+</ul>
+---
 
 <h2 align="left">🛠 Tech Stack</h2>
 
